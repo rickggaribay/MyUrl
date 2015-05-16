@@ -23,7 +23,7 @@ app.post("/create", express.bodyParser(), function (req, res) {
     }
     else {
 
-        create.getMyurl(req.body.Url, function (error, result) {
+        create.getMyUrl(req.body.Url, function (error, result) {
             console.log("Sent: " + result);
             res.send(201,result);
         })
