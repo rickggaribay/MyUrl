@@ -1,5 +1,5 @@
 {
-  "name": "neurl.it",
+  "name": "myurl",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -22,11 +22,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rickggaribay/neurl"
+    "url": "https://github.com/rickggaribay/myurl"
   },
   "author": "Rick G. Garibay",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/rickggaribay/neurl/issues"
+    "url": "https://github.com/rickggaribay/myurl/issues"
   }
 }
